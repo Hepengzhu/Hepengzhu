@@ -12,6 +12,9 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Hepengzhu/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
+![hpz's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hepengzhu&show_icons=true&count_private=true&theme=gotham)
+
+![hpz's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hepengzhu&layout=compact&hide_border=true&langs_count=10)
 ### My Skill Set
 HTML , CSS , JavaScript , Vue
 
